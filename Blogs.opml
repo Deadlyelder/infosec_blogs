@@ -173,7 +173,6 @@
 		<outline htmlUrl="https://littlemaninmyhead.wordpress.com" title="» Feed (https://littlemaninmyhead.wordpress.com/feed/)" xmlUrl="https://littlemaninmyhead.wordpress.com/feed/" type="rss" text="» Feed (https://littlemaninmyhead.wordpress.com/feed/)"/>
 		<outline htmlUrl="https://qualsec.ulb.ac.be" title="» Feed (https://qualsec.ulb.ac.be/feed/)" xmlUrl="https://qualsec.ulb.ac.be/feed/" type="rss" text="» Feed (https://qualsec.ulb.ac.be/feed/)"/>
 		<outline htmlUrl="https://research.kudelskisecurity.com" title="» Feed (https://research.kudelskisecurity.com/feed/)" xmlUrl="https://research.kudelskisecurity.com/feed/" type="rss" text="» Feed (https://research.kudelskisecurity.com/feed/)"/>
-		<outline text="Mathematics &amp; Combi." title="Mathematics &amp; Combi.">
 			<outline htmlUrl="http://algassert.com" title="Algorithmic Assertions - Craig Gidney's Computer Science Blog" xmlUrl="http://strilanc.com/feed.xml" type="rss" text="Algorithmic Assertions - Craig Gidney's Computer Science Blog"/>
 			<outline htmlUrl="https://johncarlosbaez.wordpress.com" title="Azimuth" xmlUrl="http://johncarlosbaez.wordpress.com/feed/" type="rss" text="Azimuth"/>
 			<outline htmlUrl="https://casmusings.wordpress.com" title="CAS Musings" xmlUrl="http://casmusings.wordpress.com/feed/" type="rss" text="CAS Musings"/>
@@ -192,24 +191,16 @@
 			<outline htmlUrl="https://dustingmixon.wordpress.com" title="Short, Fat Matrices" xmlUrl="http://dustingmixon.wordpress.com/feed/" type="rss" text="Short, Fat Matrices"/>
 			<outline htmlUrl="http://golem.ph.utexas.edu/category/" title="The n-Category Café" xmlUrl="http://golem.ph.utexas.edu/category/atom10.xml" type="rss" text="The n-Category Café"/>
 			<outline htmlUrl="https://terrytao.wordpress.com" title="What's new" xmlUrl="http://terrytao.wordpress.com/feed/" type="rss" text="What's new"/>
-		</outline>
-		<outline text="Other" title="Other">
 			<outline htmlUrl="http://blog.agupieware.com/" title="aGupieWare" xmlUrl="http://blog.agupieware.com/feeds/posts/default" type="rss" text="aGupieWare"/>
 			<outline htmlUrl="https://roamingaroundatrandom.wordpress.com" title="Roaming around at random" xmlUrl="https://roamingaroundatrandom.wordpress.com/feed/" type="rss" text="Roaming around at random"/>
-		</outline>
-		<outline text="Security" title="Security">
 			<outline htmlUrl="http://blog.erratasec.com/" title="Errata Security" xmlUrl="http://blog.erratasec.com/feeds/posts/default?alt=rss" type="rss" text="Errata Security"/>
 			<outline htmlUrl="http://research.googleblog.com/" title="Google Research Blog" xmlUrl="http://googleresearch.blogspot.com/feeds/posts/default" type="rss" text="Google Research Blog"/>
 			<outline htmlUrl="https://www.ibm.com/blogs/research" title="IBM Blog Research" xmlUrl="http://ibmresearchnews.blogspot.com/feeds/posts/default" type="rss" text="IBM Blog Research"/>
 			<outline htmlUrl="http://www.himawan.nu/" title="inevitable" xmlUrl="http://brokenpipes.blogspot.com/feeds/posts/default" type="rss" text="inevitable"/>
 			<outline htmlUrl="https://www.schneier.com/blog/" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/atom.xml" type="rss" text="Schneier on Security"/>
 			<outline htmlUrl="http://blog.slaks.net/" title="SLaks.Blog" xmlUrl="http://blog.slaks.net/feeds/posts/default.xml" type="rss" text="SLaks.Blog"/>
-		</outline>
-		<outline text="Tech" title="Tech">
 			<outline htmlUrl="https://outsourcedbits.org" title="Outsourced Bits" xmlUrl="http://outsourcedbits.org/feed/" type="rss" text="Outsourced Bits"/>
 			<outline htmlUrl="https://www.seancassidy.me/" title="sean cassidy" xmlUrl="https://www.seancassidy.me/atom.xml" type="rss" text="sean cassidy"/>
-		</outline>
-		<outline text="Theory &amp; Crypto" title="Theory &amp; Crypto">
 			<outline htmlUrl="https://www.benthamsgaze.org" title="Bentham’s Gaze" xmlUrl="https://www.benthamsgaze.org/feed/" type="rss" text="Bentham’s Gaze"/>
 			<outline htmlUrl="http://bristolcrypto.blogspot.com/" title="Bristol Cryptography Blog" xmlUrl="http://bristolcrypto.blogspot.com/feeds/posts/default" type="rss" text="Bristol Cryptography Blog"/>
 			<outline htmlUrl="https://conspicuouschatter.wordpress.com" title="Conspicuous Chatter" xmlUrl="https://conspicuouschatter.wordpress.com/feed/" type="rss" text="Conspicuous Chatter"/>
@@ -224,6 +215,5 @@
 			<outline htmlUrl="https://www.quantiki.org/frontpage" title="Quantiki - Quantum Information Portal and Wiki" xmlUrl="http://www.quantiki.org/rss.xml" type="rss" text="Quantiki - Quantum Information Portal and Wiki"/>
 			<outline htmlUrl="http://www.scottaaronson.com/blog" title="Shtetl-Optimized" xmlUrl="http://www.scottaaronson.com/blog/?feed=rss2" type="rss" text="Shtetl-Optimized"/>
 			<outline htmlUrl="https://windowsontheory.org" title="Windows On Theory" xmlUrl="http://windowsontheory.org/feed/" type="rss" text="Windows On Theory"/>
-		</outline>
 	</body>
 </opml>
