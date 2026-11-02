@@ -55,6 +55,7 @@
 		<outline htmlUrl="http://blog.infobytesec.com/" title="Infobyte Security Research Labs" xmlUrl="http://blog.infobytesec.com/feeds/posts/default?alt=rss" type="rss" text="Infobyte Security Research Labs"/>
 		<outline htmlUrl="https://jbzteam.github.io/" title="JBZ CTF Team" xmlUrl="https://jbzteam.github.io/feed.xml" type="rss" text="JBZ CTF Team"/>
 		<outline htmlUrl="http://jf.gallais.free.fr/blog/index.php?" title="Jef ~ Crypto Diary" xmlUrl="http://jf.gallais.free.fr/blog/index.php?feed/atom" type="rss" text="Jef ~ Crypto Diary"/>
+		<outline htmlUrl="https://joho-todai.com/tag/security/" title="Joho no Todai — Security (Japanese)" xmlUrl="https://joho-todai.com/tag/security/rss/" type="rss" text="Joho no Todai — Security (Japanese)"/>
 		<outline htmlUrl="http://ethnologician.org/journal/" title="Journal" xmlUrl="http://ethnologician.org/journal/atom.xml" type="rss" text="Journal"/>
 		<outline htmlUrl="http://www.righto.com/" title="Ken Shirriff's blog" xmlUrl="http://www.righto.com/feeds/posts/default?alt=rss" type="rss" text="Ken Shirriff's blog"/>
 		<outline htmlUrl="https://www.kristovatlas.com" title="Kristov Atlas" xmlUrl="https://www.kristovatlas.com/feed/" type="rss" text="Kristov Atlas"/>
